@@ -1,6 +1,6 @@
 # 🔍 Port Scanner TCP Assíncrono (v1)
 
-Projeto educacional de um **Port Scanner TCP assíncrono** desenvolvido em Python, com foco no estudo de **redes de computadores**, **protocolo TCP**, **concorrência** e **noções básicas de cibersegurança**.
+Projeto educacional de um **Port Scanner TCP assíncrono** desenvolvido em Python, com foco no estudo de **redes de computadores**, **protocolo TCP/IP**, **concorrência** e **noções básicas de cibersegurança**.
 
 Esta é a **primeira versão do projeto**, com implementação simples e didática.
 
