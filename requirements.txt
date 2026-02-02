@@ -1,0 +1,3 @@
+#Projeto utiliza bibliotecas padrão do python
+#python >= 3.10
+#biblioteca Asyncio
